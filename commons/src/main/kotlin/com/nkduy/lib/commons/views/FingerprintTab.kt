@@ -7,9 +7,9 @@ import android.provider.Settings
 import android.util.AttributeSet
 import android.widget.RelativeLayout
 import androidx.biometric.auth.AuthPromptHost
-import com.github.ajalt.reprint.core.AuthenticationFailureReason
-import com.github.ajalt.reprint.core.AuthenticationListener
-import com.github.ajalt.reprint.core.Reprint
+import com.nkduy.lib.reprint.core.AuthenticationFailureReason
+import com.nkduy.lib.reprint.core.AuthenticationListener
+import com.nkduy.lib.reprint.core.Reprint
 import com.nkduy.lib.commons.R
 import com.nkduy.lib.commons.extensions.*
 import com.nkduy.lib.commons.helpers.PROTECTION_FINGERPRINT

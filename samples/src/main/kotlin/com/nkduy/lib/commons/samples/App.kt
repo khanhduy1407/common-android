@@ -1,7 +1,7 @@
 package com.nkduy.lib.commons.samples
 
 import android.app.Application
-import com.github.ajalt.reprint.core.Reprint
+import com.nkduy.lib.reprint.core.Reprint
 
 class App : Application() {
     override fun onCreate() {

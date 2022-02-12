@@ -25,7 +25,7 @@
                 android:paddingEnd="@dimen/small_margin"
                 android:paddingBottom="@dimen/small_margin" />
 
-            <com.qtalk.recyclerviewfastscroller.RecyclerViewFastScroller
+            <com.nkduy.recyclerviewfastscroller.RecyclerViewFastScroller
                 android:id="@+id/filepicker_fastscroller"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -39,7 +39,7 @@
                     android:scrollbars="none"
                     app:layoutManager="com.nkduy.lib.commons.views.MyLinearLayoutManager" />
 
-            </com.qtalk.recyclerviewfastscroller.RecyclerViewFastScroller>
+            </com.nkduy.recyclerviewfastscroller.RecyclerViewFastScroller>
 
             <!--<com.nkduy.lib.commons.views.FastScroller
                 android:id="@+id/filepicker_fastscroller"

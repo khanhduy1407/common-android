@@ -12,7 +12,7 @@ import com.bumptech.glide.load.resource.bitmap.CenterCrop
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions.withCrossFade
 import com.bumptech.glide.request.RequestOptions
-import com.qtalk.recyclerviewfastscroller.RecyclerViewFastScroller
+import com.nkduy.recyclerviewfastscroller.RecyclerViewFastScroller
 import com.nkduy.lib.commons.R
 import com.nkduy.lib.commons.activities.BaseSimpleActivity
 import com.nkduy.lib.commons.extensions.*

@@ -40,7 +40,7 @@ import androidx.core.content.ContextCompat
 import androidx.core.content.FileProvider
 import androidx.exifinterface.media.ExifInterface
 import androidx.loader.content.CursorLoader
-import com.github.ajalt.reprint.core.Reprint
+import com.nkduy.lib.reprint.core.Reprint
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.nkduy.lib.commons.R
